@@ -9,8 +9,12 @@ export default {
                 left: (scrollX + left) + 'px',
                 top: (scrollY + top + height) + 'px',
             });
-            
-            document.body.appendChild(el);
+
+            if (typeof context.appendToBody === 'string') {
+                document.querySelector(context.appendToBody).appendChild(el)
+            } else {
+                document.body.appendChild(el);
+            }
         }
     },
 
