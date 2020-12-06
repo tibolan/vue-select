@@ -7,7 +7,7 @@ A fork of Vue-select, with one but important add:
 ></vue-select>
 ```
 
-[link tp "appendToBody" in vue-select docs](https://vue-select.org/api/props.html#appendtobody)
+[Link to "appendToBody" in vue-select docs](https://vue-select.org/api/props.html#appendtobody)
 
 # vue-select ![Current Release](https://img.shields.io/github/release/sagalbot/vue-select.svg?style=flat-square) ![Release Date](https://img.shields.io/github/release-date/sagalbot/vue-select?style=flat-square) ![Bundle Size](https://flat.badgen.net/bundlephobia/min/vue-select) ![Monthly Downloads](https://img.shields.io/npm/dm/vue-select.svg?style=flat-square) [![Coverage Status](https://coveralls.io/repos/github/sagalbot/vue-select/badge.svg?branch=master)](https://coveralls.io/github/sagalbot/vue-select?branch=master) ![MIT License](https://img.shields.io/github/license/sagalbot/vue-select.svg?style=flat-square)
 
